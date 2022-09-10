@@ -1,0 +1,8 @@
+O usuário Admin (1) acessou o sistema às 9:11:40 PM do dia 9/9/2022
+O usuário 1 (2) acessou o sistema às 9:11:44 PM do dia 9/9/2022
+O usuário Admin (1) acessou o sistema às 9:18:54 PM do dia 9/9/2022
+O usuário Admin (1) acessou o sistema às 9:21:08 PM do dia 9/9/2022
+O usuário Admin (1) logou o sistema às 9:40:04 PM do dia 9/9/2022
+O usuário Admin (1) deslogou o sistema às 9:40:10 PM do dia 9/9/2022
+O usuário Admin (1) logou no sistema às 9:45:06 PM do dia 9/9/2022
+O usuário Admin (1) deslogou no sistema às 9:45:10 PM do dia 9/9/2022
